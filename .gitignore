@@ -1,0 +1,4 @@
+*.pyc
+bin/*
+Faker.py/build
+test_data/*
