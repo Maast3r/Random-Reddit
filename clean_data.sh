@@ -4,11 +4,9 @@
 #
 # Purpose      : This script executes the unzipping and cleaning of all reddit data
 #
-# Authors      : Nathan Anneken, Andrew Ma - 84.51°
+# Authors      : Andrew Ma
 #
 # Arguments    : None
-#
-# Date         : 28-July-2016
 #
 # Example Call : ./clean_data.sh
 #
